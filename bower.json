@@ -1,0 +1,22 @@
+{
+  "name": "Montclar",
+  "authors": [
+    "James <jamesgrubb@mac.com>"
+  ],
+  "description": "Your Spanish vistas",
+  "main": "index.html",
+  "keywords": [
+    "House",
+    "for",
+    "sale"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
